@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.home-image{
+    width: 50vw;
+}
+
+.link-about-page{
+    text-align: center;
+}
+
+link-works-page{
+    text-align:
+}
+
+.link-about-page a{
+    color:white;
+}
+
+body{
+    background-color: darkgreen;
+}
+
+h1{
+    color: white;
+    text-align: center;
+
+}
+

@@ -1,0 +1,30 @@
+body{
+    background-color: darkgreen;
+}
+
+h1{
+    color: white;
+    text-align:justify;
+}
+
+.link-works-page{
+    text-align:right;
+}
+
+.link-works-page a{
+    color:white;
+}
+
+.bryan-image{
+    width:30vw;
+}
+
+.aaron-image{
+    width:30vw;
+}
+
+p{
+    color: white;
+}
+
+
