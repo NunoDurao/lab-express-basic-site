@@ -4,15 +4,22 @@ body{
 
 h1{
     color: white;
-    text-align:justify;
+    text-align:center;
+}
+h2{
+    color: white;
 }
 
 .link-works-page{
-    text-align:right;
+    text-align:center;
 }
 
 .link-works-page a{
     color:white;
+}
+
+.cast-image{
+    width:30vw;
 }
 
 .bryan-image{

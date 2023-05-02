@@ -20,6 +20,11 @@ app.get('/home', (request, response, next)=>{
     response.sendFile(__dirname + '/views/works.html')
  });
 
+ app.get('/works', (request, response, next)=>{
+
+   response.sendFile(__dirname + '/views/gallery.html')
+});
+
 
 
 
